@@ -1,3 +1,13 @@
+##Creating the Plots
+Place the "Individual household electric power consumption Data Set" in the same directory as
+plot1.R, plot2.R, plot3.R, plot4.R, and openFile.R. Source the five R files, set the working directory to 
+the source file location, and run the following to create png files of the requested plots:
+makePlot1()
+makePlot2()
+makePlot3()
+makePlot4()
+
+
 ## Introduction
 
 This assignment uses data from
